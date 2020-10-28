@@ -1,0 +1,105 @@
+header {
+    margin-left: 15px;
+}
+
+header img {
+    height: 75px;
+}
+
+header ul {
+    list-style-type: none;
+    height: 50px;
+    background-color: black;
+    color: white;
+}
+
+header li {
+    float: left;
+    padding: 10px;
+}
+
+main {
+    clear: both;
+    margin-left: 15px
+}
+
+.left {
+    width: 70%;
+    float: left;
+    
+}
+
+ .left h1 {
+    border-bottom: 3px solid black;
+    border-left: 3px solid black;
+    color: black;
+}
+
+form {
+    padding: 0px  0px 20px 5px;
+    background-color: #fbfbfb;
+    border: 3px solid #ebebeb;
+    border-radius: 10px;
+}
+
+.form {
+    font-size: 16px;
+    border-left: 3px solid red;
+}
+
+.submit {
+    border: 1px solid lightgray;
+    padding: 4px 10px;
+    color: white;
+    background-color: silver;
+    border-radius: 5px;
+    border-bottom: 2px solid gray;
+}
+
+.right {
+    float: right;
+    width: 25%;
+}
+
+.right li {
+    list-style-type: none;
+    padding-bottom: 5px;
+}
+
+.right h3 {
+    border-bottom: 2px dotted gray;
+}
+
+footer {
+    clear: both;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 30px;
+    margin-top: 20px;
+    padding-top: 13px;
+    padding-bottom: 5px;
+}
+
+.kiji {
+    margin-bottom: 10px;
+    margin-top: 30px;
+    padding:10px 10px;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    width: 100%;
+}
+
+.kiji h3 {
+    border-bottom: solid 3px lightgray;
+}
+
+.contnt {
+    margin: 15px;
+    padding-bottom: 5px;
+}
+
+.handlename {
+    font-size: 12px;
+}
